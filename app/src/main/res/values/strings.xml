@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="login">login</string>
+    <string name="new_user">new user</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Information</string>
+    <string name="menu_slideshow">Setting</string>
+    <string name="enter_your_email">ENTER YOUR EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="enter_your_phone_no">ENTER YOUR PHONE NO.</string>
+    <string name="enter_your_branch">ENTER YOUR BRANCH</string>
+    <string name="enter_your_name">ENTER YOUR NAME</string>
+    <string name="enter_your_enroll_no">ENTER YOUR ENROLL NO.</string>
+    <string name="submit">SUBMIT</string>
+    <string name="forgot_your_password">forgot your password?</string>
+    <string name="log_in">LOG IN</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="todo">TODO</string>
+</resources>
